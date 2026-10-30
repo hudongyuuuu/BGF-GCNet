@@ -1,0 +1,4 @@
+# Standalone evaluation and dataset-checking tools only.
+# Python 3.8; CPU only.
+numpy==1.24.4
+Pillow==10.4.0
